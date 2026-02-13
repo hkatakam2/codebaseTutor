@@ -1,0 +1,5 @@
+{
+  "name": "Codebase Tutor",
+  "description": "An AI-powered application that turns any GitHub repository into an interactive, chapter-based learning tutorial to help you understand the codebase.",
+  "requestFramePermissions": []
+}
